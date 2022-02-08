@@ -1,0 +1,16 @@
+{
+  "name": "Flyman",
+  "powers": [
+    "When jumping you start to levitate and can choose to fly wherever you want",
+    "leave a uncomfortable situation in a millisecond",
+    "look cool"
+  ],
+  "primaryNemesis": ["TheAverageHuman"],
+  "img": "https://images.unsplash.com/photo-1531907700752-62799b2a3e84?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+  "lifePercentage": 200,
+  "dob": {
+    "day": 4,
+    "month": 9,
+    "year": 2001
+  }
+}
